@@ -59,7 +59,7 @@ The backend is the primary focus and demonstrates clean API design, secure authe
 - Display success and error messages from APIs
 
 ---
-
+```
 ## 📂 Project Structure
 
 backend/
@@ -81,7 +81,7 @@ frontend/
 ├── dashboard.html
 └── app.js
 
-
+```
 
 
 
@@ -160,20 +160,21 @@ Features:
 ```bash
 git clone <your-github-repo-url>
 cd backend
-
+```
 
 ###2️⃣ Install Dependencies
 ###3️⃣ Environment Variables
-
+```bash
 Create a .env file in the backend root:
 
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
-
+```
 ###4️⃣ Run Backend Server
 npm run dev
 
 ###5️⃣ Run Frontend
-
+```bash
 Open frontend/index.html directly in a browser.
+```

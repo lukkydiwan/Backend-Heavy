@@ -29,4 +29,3 @@ app.get('/',(req,res)=>{
 export default app;
 
 
-// admin token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NzlhMTk4NTU0YzM0N2VlZGU0YWUyMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY5NTc4OTA0LCJleHAiOjE3Njk2NjUzMDR9.AEf-0jgnSIKoORrG095FQOmZeKrDxazv1Fiz9danAQo
